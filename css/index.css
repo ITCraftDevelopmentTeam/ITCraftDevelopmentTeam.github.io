@@ -1,0 +1,12 @@
+body {
+  background-color: #CCFFFF;
+}
+
+.logo {
+  padding-left: 8px;
+  color: #000;
+}
+
+.search {
+  text-align: right;
+}
